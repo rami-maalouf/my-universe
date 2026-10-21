@@ -34,7 +34,7 @@ const config: QuartzConfig = {
       "My Input Collections",
       "My Kanbans",
       "My Views",
-      "My Habits"
+      "My Habits",
     ],
     defaultDateType: "created",
     // generateSocialImages: false,
