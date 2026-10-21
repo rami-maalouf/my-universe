@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       host: "https://cloud.umami.is",
     },
     locale: "en-US",
-    baseUrl: "notes.rami-maalouf.tech",
+    baseUrl: "notes.ramimaalouf.com",
     ignorePatterns: [
       "private",
       "templates",
