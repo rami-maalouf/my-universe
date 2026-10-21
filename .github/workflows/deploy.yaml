@@ -1,8 +1,8 @@
 name: Deploy Quartz site to GitHub Pages
 
 on:
-  schedule:
-    # - cron: '0 15 * * *' # Runs every day at 10 AM EST
+  # the daily schedule (cron '0 15 * * *') is off. an empty schedule key makes
+  # the whole workflow invalid, so leave it out until it comes back.
   push:
     branches:
       - v4
